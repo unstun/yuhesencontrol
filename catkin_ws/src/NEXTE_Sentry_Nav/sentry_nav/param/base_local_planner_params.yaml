@@ -19,8 +19,8 @@
   # yaw_goal_tolerance: 0.1 #default:0.05
  
 # # Differential-drive robot configuration
-# # 是否是全向移动机器人
-#   holonomic_robot: true
+# # 是否是全向移动机器
+holonomic_robot: false
  
 # # Forward Simulation Parameters，前进模拟参数
 #   sim_time: 2
